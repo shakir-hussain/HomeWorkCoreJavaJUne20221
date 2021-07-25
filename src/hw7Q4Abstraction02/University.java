@@ -1,12 +1,20 @@
-package hw6Q4Abstraction01;
+package hw7Q4Abstraction02;
 
 public interface University {
 //classSize, field, and teacher.
-	public  void classSize();
+	public void classSize();
 
 	public void field();
 
 	public void teacher();
+
+	public static void gymnasium() {
+
+	}
+
+	public default void library() {
+
+	}
 
 	// we can't create any constructor inside an interface.
 

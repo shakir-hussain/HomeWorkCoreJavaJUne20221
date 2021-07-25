@@ -1,6 +1,6 @@
 package hw6Q4Abstraction01;
 
-public interface College {
+public interface College  {
 //commonRoom, laboratory, languageClub
 	public void commonRoom();
 	public void laboratory();

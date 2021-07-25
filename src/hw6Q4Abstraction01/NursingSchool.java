@@ -1,6 +1,6 @@
 package hw6Q4Abstraction01;
 
-public abstract class NursingSchool {
+public abstract class NursingSchool  {
 //hygiene and caring
 	public abstract void hygiene();
 
@@ -20,7 +20,7 @@ public abstract class NursingSchool {
 
 	/*
 	 * Answer one keyword(extends) is used for inheritance of abstract class An
-	 * abstract class can inherit a regular class and abstract class but cant
+	 * abstract class can inherit a regular class and abstract class but can't
 	 * inherit an interface. Only one inheritance is possible by an Abstract Class
 	 */
 }

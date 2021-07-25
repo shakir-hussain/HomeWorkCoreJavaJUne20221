@@ -12,14 +12,19 @@ public class TestAnimal {
 		BullDog bullDog = new BullDog();
 		bullDog.bullDogInfo();
 		bullDog.dogInfo();
+		bullDog.mammalInfo();
+		bullDog.animalInfo();
 
 		Cobra cobra = new Cobra();
 		cobra.cobraInfo();
 		cobra.snakeInfo();
+		cobra.reptileInfo();
+		cobra.animalInfo();
 
 		Dog dog = new Dog();
 		dog.dogInfo();
 		dog.mammalInfo();
+		dog.animalInfo();
 
 		Mammal mammal = new Mammal();
 		mammal.mammalInfo();

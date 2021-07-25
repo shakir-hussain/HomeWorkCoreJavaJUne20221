@@ -1,6 +1,6 @@
 package hw6Q4Abstraction01;
 
-public abstract class EngineeringSchool {
+public abstract class EngineeringSchool  {
 //mechanicalLab and computerLab
 
 	public abstract void mechanicalLab();
