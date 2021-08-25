@@ -13,7 +13,7 @@ public class Father {
 		System.out.println("Default Constructor");
 
 	}
-
+//parameterized constructor
 	public Father(String name, int age, char sex, boolean usCitizen) {
 		this.Name = name;
 		this.age = age;

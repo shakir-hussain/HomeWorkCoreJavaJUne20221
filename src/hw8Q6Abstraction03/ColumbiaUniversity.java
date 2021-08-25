@@ -1,7 +1,5 @@
 package hw8Q6Abstraction03;
 
-
-
 public class ColumbiaUniversity extends MedicalSchool implements University,VocationalSchool {
 	
 

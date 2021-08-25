@@ -6,7 +6,7 @@ public class Son extends Father {
 
 	public Son() {
 
-		super("Shakir", 29, 'M', true);
+		super("Shakir", 29, 'M', true);  //parameterized constructor
 		super.father();
 		super.fatherInfo("Jahad", 420, 'D', false);
 		super.FamilyName = "Hussain";
